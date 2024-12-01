@@ -1,7 +1,7 @@
 import array as arr
 
-n = 3
-m = 2
+n = 5
+m = 7
 
 a = arr.array('i', [4] * m)
 
